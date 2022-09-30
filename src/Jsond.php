@@ -68,15 +68,6 @@ class Jsond extends Plugin
                 }
             }
         );
-
-        Craft::info(
-            Craft::t(
-                'jsond',
-                '{name} plugin loaded',
-                ['name' => $this->name]
-            ),
-            __METHOD__
-        );
     }
 
     // Protected Methods

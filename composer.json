@@ -35,7 +35,7 @@
     },
     "extra": {
         "name": "Json'd",
-        "handle": "jsond",
+        "handle": "jsond-dnco",
         "hasCpSettings": false,
         "hasCpSection": false,
         "changelogUrl": "https://github.com/cd-dnco/Jsond/blob/master/CHANGELOG.md",
