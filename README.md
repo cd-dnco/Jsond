@@ -1,4 +1,4 @@
-# Json'd plugin for Craft CMS 3.x
+# Json'd plugin for Craft CMS 3.x or later
 
 Adds Twig filters for working with json.
 
