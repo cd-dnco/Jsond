@@ -45,7 +45,7 @@ class Jsond extends Plugin
     /**
      * @var string
      */
-    public $schemaVersion = '1';
+    public string $schemaVersion = '1';
 
     // Public Methods
     // =========================================================================
