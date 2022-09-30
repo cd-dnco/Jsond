@@ -1,6 +1,8 @@
 <?php
 /**
- * Json'd plugin for Craft CMS 3.x
+ * Json'd plugin for Craft CMS 4.x
+ * 
+ * Updated by Chris Dekker (DNCO)
  *
  * Adds Twig filters for working with json.
  *

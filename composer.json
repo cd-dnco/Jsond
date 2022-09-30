@@ -36,5 +36,11 @@
         "hasCpSection": false,
         "changelogUrl": "https://raw.githubusercontent.com/IndigoViking/jsond/master/CHANGELOG.md",
         "class": "indigoviking\\jsond\\Jsond"
+    },
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true,
+            "craftcms/plugin-installer": true
+        }
     }
 }
