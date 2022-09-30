@@ -13,10 +13,7 @@
 
 namespace indigoviking\jsond\twigextensions;
 
-use indigoviking\jsond\Jsond;
 use Twig\Extension\AbstractExtension;
-
-use Craft;
 use Twig\TwigFilter;
 
 /**
